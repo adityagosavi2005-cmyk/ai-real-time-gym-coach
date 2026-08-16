@@ -6,7 +6,7 @@ A real-time AI fitness coaching application that uses computer vision and pose e
 
 A short demonstration of the AI Real-time GYM Coach in action.
 
-[▶️ Watch the Demo Video](assets/demo.mkv)
+[▶️ Watch the Demo Video](assets/demo.mp4)
 
 The demo showcases:
 - Real-time camera-based pose detection
